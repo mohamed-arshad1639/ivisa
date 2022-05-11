@@ -1,0 +1,38 @@
+.testimonialcontainer
+{
+    background:#fff;
+    width: 80%;
+    height: 260px;
+   
+    margin-top: 90px;
+    margin-left: 150px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+
+
+}
+
+    /* /* .line {
+        display: flex;
+        flex-direction: row;
+      }
+      h1:before, h1:after{
+        content: "";
+        flex: 1 1;
+        border-bottom: 1px solid;
+        margin: auto;
+      }
+      h1:before {
+        margin-right: 10px;
+        margin-left:500px
+      }
+      h1:after {
+        margin-left: 10px;
+        margin-right:500px
+      } */
+      .colortesti{
+          color:#131874 ;
+      } 
